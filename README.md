@@ -1,5 +1,6 @@
-Tugas Kelompok oleh Zidan Tri Anggoro 105 dan Muhammad Naufal Adiyatma 135 Mata Kuliah Kecerdasan Buatan Pengampu IR. GALIH WASIS WICAKSONO, S.KOM, M.CS.
-N|Solid
+# Herbal-leaf-Classification-CNN
+Mata Kuliah Kecerdasan Buatan Pengampu IR. GALIH WASIS WICAKSONO, S.KOM, M.CS.
+
 
 Build Status Build Status
 
