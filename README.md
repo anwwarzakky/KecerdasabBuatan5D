@@ -1,48 +1,30 @@
-# Deployment Model CNN (daun belimbing wuluh dan daun jeruk nipis)
+Tugas Kelompok oleh Zidan Tri Anggoro 105 dan Muhammad Naufal Adiyatma 135 Mata Kuliah Kecerdasan Buatan Pengampu IR. GALIH WASIS WICAKSONO, S.KOM, M.CS.
+N|Solid
 
-## Deskripsi singkat
+Build Status Build Status
 
-Repository ini berisi semua file yang dibutuhkan untuk melakukan deployment model Machine Learning Image Classification menggunakan CNN (Convolutional Neural Network). Adapun model yang digunakan merupakan model untuk memprediksi gambar belimbing wuluh atau jeruk nipis (daun belimbing wuluh dan daun jeruk nipis).
+Meaning
+Python adalah bahasa pemograman tujuan umum tingkat tinggi .Filosofi desain nya menekankan keterbacaan kode dengan penggunaan lekukan signifikan. Python diketik secara dinamis dan di kumpulkan dari sampah. Ini mendukung beberapa paradigma pemograman, termasuk pemograman terstruktur (khususnya prosedural ), berorientasi objek dan fungsional. ini perpustakaan standarnya yang komperhensif.
 
-#
+Features
+Data set yang berisi daun belimbing dan daun jeruk nipis
+Bisa Membedakan daun belimbing dan daun jaruk nipis
+Tech
+Data set menggunakan bahasa pemograman open sorce antara lain:
 
-## Sekilas mengenai input model
+Python
+Dan tentu saja data set ini open source dengan public repisitory
 
-Agar dapat memprediksi daun belimbing wuluh dan daun jeruk nipis, data input model harus mengikuti format sebagai berikut:
+Installation
+Data set ini membutuhkan Python v10+ to run.
 
--   Gambar dengan format umum seperti .jpeg, .png, .webp, dsb.
--   Gambar dikonversi ke dalam bentuk array/tensor
--   Nilai pixel gambar memiliki rentang nilai 0-1 dengan cara membagi semua nilai pixelnya dengan 255.0
+cara mengetahui apakah python sudah terinstal dalam komputer anda atau belum
 
-#
+C:\> python --version
+Python 3.8.4
+Plugins
+Data set ini menggunakan beberapa plungin. Interuksi cara menggunakan data set ini ada di bawah :
 
-## Folder, file, dan kegunaannya
-
--   static/
-    -   uploads/ --> Berisi gambar yang diunggah untuk diprediksi.
--   templates/
-    -   index.html --> Berisi template website.
--   app.py --> Berisi konfigurasi route dan proses prediksi model untuk API.
--   belimbingjeruk.h5 --> Model Image Classification CNN yang sudah di-training.
--   requirements.txt --> Berisi daftar dependency/package Python yang diperlukan untuk menjalankan API dan model Image Classification CNN.
-
-#
-
-## Cara menjalankan API pada komputer Anda
-
-1. Pastikan Anda sudah menginstall Anaconda.
-1. Buka terminal/command prompt/power shell.
-1. Buat virtual environment dengan\
-   `conda create -n <nama-environment> python=3.9`
-1. Aktifkan virtual environment dengan\
-   `conda activate <nama-environment>`
-1. Install semua dependency/package Python dengan\
-   `pip install -r requirements.txt`
-1. Jalankan API menggunakan perintah\
-   `python app.py`
-
-## Akses melalui Website
-
-1. Anda akan diberikan URL untuk membuka website berupa `localhost:5000/` atau `127.0.0.1:5000/`.
-1. Buka URL dengan browser, coba masukkan gambar belimbing wuluh atau jeruk nipis yang ingin di prediksi.
-1. Anda akan diberikan prediksi bahwa pada gambar tersebut adalah belimbing wuluh atau jeruk nipis pada halaman website.
+Plugin	README
+GitHub	https://github.com/zidananggoro/Herbal-leaf-Classification-CNN
+Google Drive	https://github.com/zidananggoro/Dataset-Daun-Jeruk-Nipis-dan-Belimbing-Wuluh_105_135/blob/main/README.md
