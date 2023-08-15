@@ -28,4 +28,4 @@ Plugins
 ## LINK
 * [Google Collab](https://colab.research.google.com/drive/14lPfKYwOaKypZ215-iwcRxFfF_0SAXtY?usp=sharing)
 
-* [Jurnal](https://drive.google.com/file/d/1R3ZaucB8P4nFTr7H4LohECfMN8_mSFQb/view?usp=share_link)
+* [Jurnal]([https://drive.google.com/file/d/1R3ZaucB8P4nFTr7H4LohECfMN8_mSFQb/view?usp=share_link](https://drive.google.com/drive/folders/1BbckE0npVDZ8Fv1_tLejbm4snr5MgDK6?usp=sharing)https://drive.google.com/drive/folders/1BbckE0npVDZ8Fv1_tLejbm4snr5MgDK6?usp=sharing)
